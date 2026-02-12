@@ -1,0 +1,161 @@
+turf/New_Turfs/Outside/Electricity
+ icon='icons/POLE.dmi'
+ P1
+  icon_state="1"
+  layer = MOB_LAYER +10
+ P2
+  icon_state="2"
+  layer = MOB_LAYER +10
+ P3
+  icon_state="3"
+  layer = MOB_LAYER +10
+ P4
+  icon_state="4"
+  layer = MOB_LAYER +10
+ P5
+  icon_state="5"
+  layer = MOB_LAYER +10
+ P6
+  icon_state="6"
+  density=1
+ P7
+  icon_state="7"
+  density=1
+ P8
+  icon_state="8"
+  layer = MOB_LAYER +10
+ P9
+  icon_state="9"
+  layer = MOB_LAYER +10
+ P10
+  icon_state="10"
+  layer = MOB_LAYER +10
+ P11
+  icon_state="11"
+  layer = MOB_LAYER +10
+ P12
+  icon_state="12"
+  layer = MOB_LAYER +10
+ P13
+  icon_state="13"
+  layer = MOB_LAYER +10
+ P14
+  icon_state="14"
+  layer = MOB_LAYER +10
+ P15
+  icon_state="15"
+  layer = MOB_LAYER +10
+ P16
+  icon_state="16"
+  layer = MOB_LAYER +10
+ P1b
+  icon_state="1b"
+  layer = MOB_LAYER +10
+turf/New_Turfs/Outside
+	icon='icons/Inside_Turfs.dmi'
+	Pipes
+		Pipes
+			icon_state="pipes"
+			density=0
+		Pipetl
+			icon_state="pipetl"
+			density=0
+		Pipel
+			icon_state="pipel"
+			density=0
+		Pipetr
+			icon_state="pipetr"
+			density=0
+		Pipebl
+			icon_state="pipebl"
+			density=0
+		Pipebr
+			icon_state="pipebr"
+			density=0
+		Pipeh
+			icon_state="pipeh"
+			density=0
+	Wire
+		Wires
+			icon_state="wires"
+			density=0
+		Wiretl
+			icon_state="wiretl"
+			density=0
+		Wiretr
+			icon_state="wiretr"
+			density=0
+		Wirebr
+			icon_state="wirebr"
+			density=0
+		Wirebl
+			icon_state="wirebl"
+			density=0
+		Wirel
+			icon_state="wirel"
+			density=0
+turf/New_Turfs/Inside
+	icon='icons/Inside_Turfs.dmi'
+	Pipes
+		Pipes
+			icon_state="pipes"
+			density=1
+		Pipetl
+			icon_state="pipetl"
+			density=1
+		Pipel
+			icon_state="pipel"
+			density=1
+		Pipetr
+			icon_state="pipetr"
+			density=1
+		Pipebl
+			icon_state="pipebl"
+			density=1
+		Pipebr
+			icon_state="pipebr"
+			density=1
+		Pipeh
+			icon_state="pipeh"
+			density=1
+	Wire
+		Wires
+			icon_state="wires"
+			density=1
+		Wiretl
+			icon_state="wiretl"
+			density=1
+		Wiretr
+			icon_state="wiretr"
+			density=1
+		Wirebr
+			icon_state="wirebr"
+			density=1
+		Wirebl
+			icon_state="wirebl"
+			density=1
+		Wirel
+			icon_state="wirel"
+			density=1
+	Wall
+		Wallb
+			icon_state="wallb"
+			density=1
+		Wallt
+			icon_state="wallt"
+			density=1
+		Ropeb
+			icon_state="ropeb"
+			density=1
+		Ropebr
+			icon_state="ropebr"
+			density=1
+		Ropebl
+			icon_state="ropebl"
+			density=1
+		WallBB
+			icon_state="wallbb"
+			density=1
+		WallBT
+			icon_state="wallbt"
+			density=1

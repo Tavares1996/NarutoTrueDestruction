@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1537378960
+DIR: code code\_shared code\game code\game\skills code\game\skills\NovasSkills old_map\backup 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 511.1385
+WINDOW: old_map\0_newmap.dmm;code\game\skills\Wind.dm;code\game\CreationScreen_Clan.dm;code\_shared\skill_index.dm;code\game\Regeneration.dm;code\_shared\skilltree.dm;code\game\Arty.dm;code\game\books.dm;code\game\Chuunin Mechanics.dm
+FILE: code\game\CreationScreen_Clan.dm
+*/
+// END_INTERNALS
